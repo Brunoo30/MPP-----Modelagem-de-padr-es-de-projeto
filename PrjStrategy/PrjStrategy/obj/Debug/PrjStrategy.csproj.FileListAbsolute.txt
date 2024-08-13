@@ -1,0 +1,7 @@
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\bin\Debug\PrjStrategy.exe.config
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\bin\Debug\PrjStrategy.exe
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\bin\Debug\PrjStrategy.pdb
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\obj\Debug\PrjStrategy.csproj.AssemblyReference.cache
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\obj\Debug\PrjStrategy.csproj.CoreCompileInputs.cache
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\obj\Debug\PrjStrategy.exe
+C:\Users\bruna\Documents\Fatec\Modelagem de Padrões de Projetos\PrjStrategy\PrjStrategy\obj\Debug\PrjStrategy.pdb
